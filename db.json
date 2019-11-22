@@ -1,12 +1,10 @@
-
-  
-    {
-     "title": "stormy",
-     "temp": 20
-    },
-    {
-     "title": "sunny",
-     "temp": 70
-    }
-  
-
+[
+  {
+   "title": "stormy",
+   "temp": 20
+   },
+  {
+   "title": "sunny",
+   "temp": 70
+  }
+]
