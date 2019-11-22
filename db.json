@@ -1,5 +1,5 @@
 {
-  "hourlyData": [
+  "posts": [
     { "temp": 10, "title": "Cold/Sunny" },
     { "temp": 72, "title": "Warm/sunny" },
     { "temp": 38, "title": "Cold/Rainy" }
