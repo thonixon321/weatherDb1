@@ -1,7 +1,7 @@
 {
   "hourlyData": [
     { "temperature": 10, "textDescription": "Stormy", "windDirection": 23, "windSpeed":50, "time": "5pm" },
-    { "temp": 75, "textDescription": "Sunny", "windDirection": 43, "windSpeed":10, "time": "6pm" },
-    { "temp": 38, "textDescription": "Rainy", "windDirection": 33, "windSpeed":30, "time": "7pm" }
+    { "temperature": 75, "textDescription": "Sunny", "windDirection": 43, "windSpeed":10, "time": "6pm" },
+    { "temperature": 38, "textDescription": "Rainy", "windDirection": 33, "windSpeed":30, "time": "7pm" }
   ]
 }
