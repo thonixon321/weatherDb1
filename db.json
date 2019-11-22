@@ -1,0 +1,12 @@
+{
+  [
+    {
+     title: stormy,
+     temp: 20
+    },
+    {
+     title: sunny,
+     temp: 70
+    }
+  ]
+}
