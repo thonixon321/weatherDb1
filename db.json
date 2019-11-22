@@ -2,6 +2,9 @@
   "hourlyData": [
     { "temperature": 10, "textDescription": "Stormy", "windDirection": 23, "windSpeed":50, "time": "5pm" },
     { "temperature": 75, "textDescription": "Sunny", "windDirection": 43, "windSpeed":10, "time": "6pm" },
-    { "temperature": 38, "textDescription": "Rainy", "windDirection": 33, "windSpeed":30, "time": "7pm" }
+    { "temperature": 38, "textDescription": "Rainy", "windDirection": 33, "windSpeed":30, "time": "7pm" },
+     { "temperature": 10, "textDescription": "Dark", "windDirection": 23, "windSpeed":50, "time": "5pm" },
+    { "temperature": 75, "textDescription": "Snowy", "windDirection": 43, "windSpeed":10, "time": "6pm" },
+    { "temperature": 38, "textDescription": "Icy", "windDirection": 33, "windSpeed":30, "time": "7pm" },
   ]
 }
