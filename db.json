@@ -1,10 +1,7 @@
-[
-  {
-   "title": "stormy",
-   "temp": 20
-   },
-  {
-   "title": "sunny",
-   "temp": 70
-  }
-]
+{
+  "posts": [
+    { "id": 1, "title": "Weather 1" },
+    { "id": 2, "title": "Weather 2" },
+    { "id": 3, "title": "Weather 3" }
+  ]
+}
